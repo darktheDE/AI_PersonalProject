@@ -6,7 +6,7 @@ MSSV: 23133030
 
 ## Giới thiệu
 
-Đây là dự án cá nhân cho môn học AI tại HCMUTE. Dự án bao gồm mã nguồn, báo cáo và các hình ảnh minh họa quá trình thực hiện.
+Đây là dự án bài tập cá nhân cho môn học AI tại HCMUTE. Dự án bao gồm mã nguồn, báo cáo và các hình ảnh minh họa quá trình thực hiện.
 
 ## Cách chạy chương trình
 
