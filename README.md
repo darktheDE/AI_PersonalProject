@@ -1,6 +1,7 @@
 # AI_PersonalProject
 
 Dự án cá nhân môn Trí Tuệ Nhân Tạo (AI)  
+Đề tài: Giải game 8-Puzzle bằng thuật toán
 Sinh viên: Đỗ Kiến Hưng  
 MSSV: 23133030
 
