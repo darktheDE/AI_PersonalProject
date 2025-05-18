@@ -142,8 +142,6 @@ Dự án cá nhân môn Trí Tuệ Nhân Tạo (AI)
 
 Báo cáo chi tiết và video minh họa nằm trong thư mục `report/`:
 - `23133030_DoKienHung_BaoCao_BTCN.pdf`: Báo cáo chi tiết.
-- `VideoReport.mkv`: Video trình bày dự án.
-
 ---
 
 Mọi thắc mắc vui lòng liên hệ: 23133030@student.hcmute.edu.vn
