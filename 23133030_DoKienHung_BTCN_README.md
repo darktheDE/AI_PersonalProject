@@ -65,75 +65,75 @@ Dự án cá nhân môn Trí Tuệ Nhân Tạo (AI)
 ## Mô phỏng các thuật toán giải 8-Puzzle (GIF)
 
 ### AND-OR Search
-![ANDORSEARCHgif](gif/ANDORSEARCHgif)
+![ANDORSEARCHgif](gif/ANDORSEARCHgif.gif)
 > Thuật toán AND-OR Search giải quyết bài toán bằng cách xây dựng cây tìm kiếm với các nút AND và OR, phù hợp cho các bài toán có nhiều trạng thái mục tiêu hoặc điều kiện rẽ nhánh.
 
 ### A* (A-Star)
-![AStargif](gif/AStargif)
+![AStargif](gif/AStargif.gif)
 > Thuật toán A* sử dụng hàm đánh giá f(n) = g(n) + h(n) để tìm đường đi ngắn nhất, kết hợp chi phí thực tế và ước lượng còn lại đến đích.
 
 ### Backtracking
-![backtrackinggif](gif/backtrackinggif)
+![backtrackinggif](gif/backtrackinggif.gif)
 > Thuật toán Backtracking thử từng bước di chuyển, quay lui khi gặp ngõ cụt, đảm bảo tìm ra lời giải nếu tồn tại.
 
 ### Beam Search
-![beamsearchgif](gif/beamsearchgif)
+![beamsearchgif](gif/beamsearchgif.gif)
 > Beam Search chỉ giữ lại một số lượng giới hạn các trạng thái tốt nhất ở mỗi bước, giúp giảm bộ nhớ nhưng có thể bỏ lỡ lời giải tối ưu.
 
 ### Belief State Search
-![BeliefStateSearchgif](gif/BeliefStateSearchgif)
+![BeliefStateSearchgif](gif/BeliefStateSearchgif.gif)
 > Thuật toán này mở rộng tìm kiếm trạng thái dựa trên tập hợp các trạng thái có thể, phù hợp với các bài toán không xác định hoàn toàn.
 
 ### BFS (Breadth-First Search)
-![bfsgif](gif/bfsgif)
+![bfsgif](gif/bfsgif.gif)
 > BFS duyệt theo từng lớp, đảm bảo tìm ra lời giải ngắn nhất nhưng tiêu tốn nhiều bộ nhớ cho các trạng thái trung gian.
 
 ### DFS (Depth-First Search)
-![dfsgif](gif/dfsgif)
+![dfsgif](gif/dfsgif.gif)
 > DFS đi sâu vào từng nhánh trước, có thể nhanh nhưng không đảm bảo tìm ra lời giải ngắn nhất.
 
 ### Genetic Algorithm
-![GeneticAlgogif](gif/GeneticAlgogif)
+![GeneticAlgogif](gif/GeneticAlgogif.gif)
 > Thuật toán di truyền mô phỏng quá trình tiến hóa tự nhiên, sử dụng các phép lai ghép và đột biến để tìm lời giải tối ưu.
 
 ### Greedy Search
-![Greedygif](gif/Greedygif)
+![Greedygif](gif/Greedygif.gif)
 > Greedy Search luôn chọn bước đi có chi phí ước lượng thấp nhất, nhanh nhưng dễ mắc kẹt ở trạng thái cục bộ.
 
 ### IDA* (Iterative Deepening A*)
-![IDAStargif](gif/IDAStargif)
+![IDAStargif](gif/IDAStargif.gif)
 > IDA* kết hợp DFS với A*, lặp lại tìm kiếm với ngưỡng chi phí tăng dần, tiết kiệm bộ nhớ hơn A*.
 
 ### Intelligent Backtracking
-![IntellegentBacktrackinggif](gif/IntellegentBacktrackinggif)
+![IntellegentBacktrackinggif](gif/IntellegentBacktrackinggif.gif)
 > Cải tiến từ Backtracking, thuật toán này ghi nhớ các trạng thái đã thử để tránh lặp lại, tăng hiệu quả tìm kiếm.
 
 ### Iterative Deepening
-![IterativeDeepeninggif](gif/IterativeDeepeninggif)
+![IterativeDeepeninggif](gif/IterativeDeepeninggif.gif)
 > Kết hợp ưu điểm của BFS và DFS, thuật toán lặp lại DFS với độ sâu tăng dần cho đến khi tìm được lời giải.
 
 ### Min-Conflict
-![Min-Conflictgif](gif/Min-Conflictgif)
+![Min-Conflictgif](gif/Min-Conflictgif.gif)
 > Thuật toán này chọn bước đi làm giảm số lượng xung đột nhất, thường dùng cho các bài toán ràng buộc.
 
 ### Q-Learning
-![QLearninggif](gif/QLearninggif)
+![QLearninggif](gif/QLearninggif.gif)
 > Q-Learning là thuật toán học tăng cường, cập nhật giá trị Q cho từng trạng thái-hành động để tối ưu hóa đường đi.
 
 ### Random-Restart Hill Climbing
-![Random-RestartHillClimbinggif](gif/Random-RestartHillClimbinggif)
+![Random-RestartHillClimbinggif](gif/Random-RestartHillClimbinggif.gif)
 > Thuật toán leo đồi với khởi tạo lại ngẫu nhiên khi mắc kẹt ở cực trị cục bộ, tăng khả năng tìm lời giải toàn cục.
 
 ### Simple Hill Climbing
-![SimpleHillClimbinggif](gif/SimpleHillClimbinggif)
+![SimpleHillClimbinggif](gif/SimpleHillClimbinggif.gif)
 > Leo đồi đơn giản luôn chọn bước đi tốt hơn hiện tại, dễ mắc kẹt ở cực trị cục bộ.
 
 ### Steepest-Ascent Hill Climbing
-![Steepest-AscentHillClimbinggif](gif/Steepest-AscentHillClimbinggif)
+![Steepest-AscentHillClimbinggif](gif/Steepest-AscentHillClimbinggif.gif)
 > Ở mỗi bước, thuật toán chọn bước đi cải thiện tốt nhất, giúp tăng khả năng thoát khỏi cực trị cục bộ hơn so với leo đồi đơn giản.
 
 ### UCS (Uniform Cost Search)
-![UCSgif](gif/UCSgif)
+![UCSgif](gif/UCSgif.gif)
 > UCS mở rộng nút có chi phí thấp nhất trước, đảm bảo tìm ra đường đi tối ưu nếu chi phí các bước là dương.
 
 ---
